@@ -4,7 +4,7 @@ class Header extends React.Component {
         return (
             <div className="header">
                 <h1>Horned Beasts</h1>
-            </div>
+            </div >
         );
     }
 }
